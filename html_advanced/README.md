@@ -1,7 +1,7 @@
 # HTML, advanced
 
 
-<img src="/image/readme.jpg" alt="Alt Text">
+<img src="image/readme.jpg" alt="Alt Text">
 
 
 ## Project Description
